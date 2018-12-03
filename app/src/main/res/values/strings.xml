@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StyleMyself</string>
+    <string name="add_headwear">+ Headwear</string>
+    <string name="add_top">+ Top</string>
+    <string name="add_bottom">+ Bottom</string>
+    <string name="add_shoes">+ Shoes</string>
+    <string name="add_accessories">+ Accessories</string>
+
+    <!--menu_list-->
+    <string name="my_wardrobe">My Wardrobe</string>
+    <string name="add_collection">Add Collection</string>
+
+    <string name="quick_styling_btn">Quick Styling</string>
+    <string name="event_btn">Event</string>
+    <string name="match_and_pair_btn">Match and Pair</string>
+    <string name="how_to_use">How To Use?</string>
+    <string name="previous_style">Previous Style</string>
+    <string name="favourite">Favourite</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="fashion_header">Fashion Header</string>
+
+</resources>
